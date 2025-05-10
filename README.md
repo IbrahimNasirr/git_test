@@ -1,2 +1,2 @@
 # git_test
-Hello Odin! I am Ibrahim Nasir ;-;
+Hello Odin! My name is Ibrahim Nasir , lesgooo!
